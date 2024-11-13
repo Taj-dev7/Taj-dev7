@@ -1,3 +1,4 @@
+![Header](https://github.com/Taj-dev7/Taj-dev7/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Syed Tajuddin</h1>
 <h3 align="center">"Turning Dreams into Digital Reality with Every Line of Code"</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/LkQzw7k5DV4AAAAd/anime-hacking.gif">

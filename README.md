@@ -1,13 +1,13 @@
 ![Header](https://github.com/Taj-dev7/Taj-dev7/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Syed Tajuddin</h1>
+<h1 align="center">Hey 👋, I'm Syed Tajuddin</h1>
 <h3 align="center">"Turning Dreams into Digital Reality with Every Line of Code"</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/LkQzw7k5DV4AAAAd/anime-hacking.gif">
 
 <p align="left"> <a href="https://twitter.com/tajuddinsyd7" target="blank"><img src="https://img.shields.io/twitter/follow/tajuddinsyd7?logo=twitter&style=for-the-badge" alt="tajuddinsyd7" /></a> </p>
 
-- 🌱 I’m currently learning **Angular ,Gsap**
+- 🌱 I’m currently learning **Angular ,Gsap,Locomotive,ModernWeb...**
 
-- 💬 Ask me about **MERN,REACT,NODE**
+- 💬 Ask me about **Angular,Node,Expressjs,Mongo**
 
 - 📫 How to reach me **syedtajuddin2002@gmail.com**
 
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taj-dev7&show_icons=true&locale=en&layout=compact" alt="taj-dev7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taj-dev7&show_icons=true&locale=en" alt="taj-dev7" /></p>
+
 
 
